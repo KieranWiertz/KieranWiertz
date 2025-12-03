@@ -3,6 +3,7 @@
 **`Full Stack Software Developer`**
 
 I enjoy building Full Stack applications using a variety of languages! Now after building applications for a couple of years I am even more in love with creating new software!
+
 ---
 ### 🧰 Languages and Tools
 
