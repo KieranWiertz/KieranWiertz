@@ -20,7 +20,8 @@ I enjoy building Full Stack applications using a variety of languages! Now after
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-#
+
+---
 <details>
  <summary><h3>👨‍💻 Kieran's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything. I started as most students do trying to learn everything, after a while I noticed that I enjoy building Full Stack Webapps. While in university I would work on personal projects beside my actual course work and doing this made me more proficiant in building software! I enjoy working on all elements of software creation from the initial planning phase to building the front and back end. After graduating from university in 2027 I plan to work as a Junior Software Developer in a company that aligns with my goals and motivation!
